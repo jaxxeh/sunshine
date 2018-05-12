@@ -1,6 +1,6 @@
 {
-  "name": "weather-app-frontend",
-  "version": "0.0.1",
+  "name": "sunshine",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.46",
